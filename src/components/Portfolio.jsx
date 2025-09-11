@@ -599,7 +599,7 @@ const Portfolio = () => {
                 viewport={{ once: true }}
                 className="bg-white/5 backdrop-blur-md rounded-2xl p-6 border border-white/10 text-center hover:scale-102 transition-all duration-200 group cursor-pointer achievement-card"
                 onClick={() =>
-                  window.open("https://leetcode.com/Abhitkumar89/", "_blank")
+                  window.open("https://leetcode.com/u/Abhit_Kumar/", "_blank")
                 }
               >
                 <div className="w-10 h-10 bg-gradient-to-br from-orange-400 to-orange-600 rounded-lg flex items-center justify-center mx-auto mb-3 group-hover:scale-110 transition-transform">
@@ -622,7 +622,7 @@ const Portfolio = () => {
                 className="bg-white/5 backdrop-blur-md rounded-2xl p-6 border border-white/10 text-center hover:scale-102 transition-all duration-200 group cursor-pointer achievement-card"
                 onClick={() =>
                   window.open(
-                    "https://codeforces.com/profile/Abhitkumar89",
+                    "https://codeforces.com/profile/yagamiLight011",
                     "_blank"
                   )
                 }
@@ -679,7 +679,7 @@ const Portfolio = () => {
                   transition={{ duration: 0.6, delay: 2.0 }}
                   viewport={{ once: true }}
                   onClick={() =>
-                    window.open("https://leetcode.com/Abhitkumar89/", "_blank")
+                    window.open("https://leetcode.com/u/Abhit_Kumar/", "_blank")
                   }
                   className="group bg-gradient-to-r from-orange-500/20 to-orange-600/20 hover:from-orange-500/30 hover:to-orange-600/30 border border-orange-500/30 hover:border-orange-400/50 rounded-xl p-4 transition-all duration-300 hover:scale-105"
                 >
@@ -705,7 +705,7 @@ const Portfolio = () => {
                   viewport={{ once: true }}
                   onClick={() =>
                     window.open(
-                      "https://codeforces.com/profile/Abhitkumar89",
+                      "https://codeforces.com/profile/yagamiLight011",
                       "_blank"
                     )
                   }
