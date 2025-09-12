@@ -208,7 +208,7 @@ const Portfolio = () => {
         "https://media.licdn.com/dms/image/v2/D4D12AQHOUIZww-P8_A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1703780349476?e=2147483647&v=beta&t=vfTqyjuz75mDKCWLqhlQV0mCcPUgd9Blb8yMQmueEhI",
       description:
         "A sleek Razorpay landing page clone using Tailwind CSS for styling and responsiveness.",
-      technologies: ["HTML", "TailwindCSS"],
+      technologies: ["HTML", "TailwindCSS","Media Query"],
       liveDemo: "#",
       github: "https://github.com/Abhitkumar89/Razor_Pay_Clone_Tailwind",
     },
@@ -227,6 +227,7 @@ const Portfolio = () => {
         "GitHub",
         "VS Code",
         "Cursor",
+        "Media Query",
       ],
       liveDemo: "#",
       github: "https://github.com/Abhitkumar89/aKportfolio",
