@@ -133,26 +133,6 @@ const Portfolio = () => {
 
   const projects = [
     {
-      name: "MoveOn-The Ride Sharing",
-      Image:
-        "https://img.freepik.com/free-vector/taxi-app-concept_23-2148485646.jpg",
-      description:
-        "A full-stack ride-sharing app like Uber with live tracking, real-time updates, JWT auth, and smooth animations.",
-      technologies: [
-        "React",
-        "Node.js",
-        "MongoDB",
-        "TailwindCSS",
-        "Socket.io",
-        "Framer-Motion",
-        "Geolocation API",
-        "Distance Matrix API",
-        "JWT",
-      ],
-      liveDemo: "#",
-      github: "https://github.com/Abhitkumar89/MoveOn",
-    },
-    {
       name: "FastBlog-AI Powered Blogging",
       Image:
         "https://img.freepik.com/free-vector/blogging-concept-illustration_114360-1038.jpg",
@@ -188,9 +168,34 @@ const Portfolio = () => {
         "Cloudinary",
         "Razorpay",
         "EmailJS",
+        "Vercel",
+        "render",
+        "GitHub",
+        "VS Code",
+        "Media Query",
       ],
-      liveDemo: "#",
-      github: "https://github.com/Abhitkumar89/StudyNotion",
+      liveDemo: "https://study-notion-frontend-sigma-five.vercel.app/",
+      github: "https://github.com/Abhitkumar89/Study-Notion",
+    },
+    {
+      name: "MoveOn-The Ride Sharing",
+      Image:
+        "https://img.freepik.com/free-vector/taxi-app-concept_23-2148485646.jpg",
+      description:
+        "A full-stack ride-sharing app like Uber with live tracking, real-time updates, JWT auth, and smooth animations.",
+      technologies: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "TailwindCSS",
+        "Socket.io",
+        "Framer-Motion",
+        "Geolocation API",
+        "Distance Matrix API",
+        "JWT",
+      ],
+      liveDemo: "https://move-on-inky.vercel.app/",
+      github: "https://github.com/Abhitkumar89/MoveOn",
     },
     {
       name: "Password Generator",
